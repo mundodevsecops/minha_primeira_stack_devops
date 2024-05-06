@@ -1,4 +1,4 @@
-# Construindo uma infraestutura como código (IAC) - Terraform
+# Construindo uma infraestrutura como código (IAC) - Terraform
 
 ![alt text](image.png)
 
